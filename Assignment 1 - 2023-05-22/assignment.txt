@@ -1,0 +1,21 @@
+1. What is <!DOCTYPE html>? How do we use to define it before html5?
+Ans: It is the information to the browser about the version of the html used in the page.
+
+Before html5 we used to define it as below
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+Its relative longer and descriptive than html5 with HTML element and attributes.
+
+==================================================================================================================
+
+2. Importance of Heading in HTML?
+Ans: Heading are used to highlight importance topics. HTML provides 6 heading tags <h1>, <h2>, <h3>, <h4>, <h5>, <h6>
+<h1> is the highest level and bigger font-size and font-weight, next comes the <h2> as sub-heading, just lower to <h1> and higher to <h3>
+tag, Similarly we use <h3>, <h4>, <h5>, <h6> with H1 being the higest and <h6> being the lowest. H1 Tags should only 
+used once for seo purpose the google engine reads h1 tags and it serve as title of page. The other tags can be used 
+multiple times.
+
+====================================================================================================================
+
+3. Where is the CSS coming from? Is it same for all browser? Why is it there?
+Ans: CSS is coming from the <style> tag in the page. No, CSS is diffrent for diffrent browser h1 tag in chrome has diffrent styling compared to 
+h1 tag in Firefox. It is used for styling and visual representation of the document.
