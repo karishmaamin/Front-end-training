@@ -1,0 +1,85 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+.logo{
+	width:100px;
+	height: 100px;
+}
+header a{
+	float:right;
+	padding-top: 40px;
+	padding-right: 20px;
+	color: white;
+}
+header{
+	background-color: black;
+	margin-top: 0px;
+}
+.rightimgg
+ {
+ 	width: 50%;
+ 	height: 50%;
+	float: right;
+	
+
+ }
+ #welcome
+ {
+ 	padding:20px;
+ 	font-style: italic;
+ 	color:black;
+ 	text-align:left;
+ }
+ .text{
+	color:black;
+	font-size: 20px;
+}
+.venue
+{
+	border:none;
+	outline:none;
+	height:40px;
+	width:250px;
+	color:white;
+	font-size:22px;
+	background:black;
+	cursor:pointer;
+	border-radius:20px;
+	font-family:sans-sarif;
+	color:white;
+	margin-left: 200px;
+	margin-top: 20px;
+}
+ footer{
+ 	background-color: black;
+ 	width: 100%;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    float:right;
+    margin-top:60px;
+    color: white;
+}
+
+footer a{
+	float: left;
+	padding: 20px;
+	color: white;
+}
+ .logo_align{
+	margin-top: 25px;
+	margin-left: 40%;
+	
+
+}
+.logo_size{
+	width:8%;
+	height:8%;
+}
+@media only screen and (max-width: 550px) {
+  .venue{
+    margin-left: 100px;
+  }
+}
