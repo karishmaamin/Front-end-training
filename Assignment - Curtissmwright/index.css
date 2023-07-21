@@ -1,0 +1,24 @@
+
+.main-navbar {
+    background-color: black;
+}
+
+
+li a {
+    text-decoration: none;
+    color: white;
+}
+
+nav {
+    padding:20px;
+}
+
+.banner-container {
+    background-image: url("images/airdesk.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: left top;
+}
